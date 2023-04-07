@@ -9,6 +9,7 @@ data class Product(
     val stock : String ="",
     val id : String ="",
 
-){
+)
+{
 
 }
